@@ -36,6 +36,7 @@ body {
     text-decoration: none;
     color: rgb(252, 253, 253);
     font-size: 20px;
+    margin-top: 3%;
 }
 
 .part-two {
@@ -72,6 +73,7 @@ body {
     height: 80px;
     display: inline-block;
     background: #0886da;
+    border-radius: 45px;
 }
 
 #c {
@@ -79,6 +81,7 @@ body {
     height: 80px;
     display: inline-block;
     background: #0886da;
+    border-radius: 45px;
 }
 
 #b {
@@ -86,6 +89,7 @@ body {
     height: 80px;
     display: inline-block;
     background: #da0808;
+    border-radius: 45px;
 }
 
 #a {
@@ -93,6 +97,7 @@ body {
     height: 80px;
     display: inline-block;
     background: #0886da;
+    border-radius: 45px;
 }
 
 #other-amount {
