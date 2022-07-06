@@ -42,3 +42,26 @@ body {
     text-align: center;
     font-size: 70px;
 }
+
+.part-2-p {
+    text-align: center;
+}
+
+
+
+.tk-main {
+    content: "";
+    display: flex;
+    clear: both;
+}
+
+.tk {
+    width: 25%;
+    float: left;
+    margin: 20px;
+    padding: 13px;
+    padding-left: 10%;
+    border: 30%;
+    font-weight: 700;
+
+}
