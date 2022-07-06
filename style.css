@@ -2,6 +2,34 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.part-one {
+.h1-text {
+    font-size: 70px;
+    color: azure;
     text-align: center;
+    text-align-last: right;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.button {
+    background-image: linear-gradient(orange, tomato);
+    padding: 16px 20px;
+    border-radius: 15px;
+    font-weight: 900;
+    text-decoration: none;
+    color: aliceblue;
 }
