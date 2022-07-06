@@ -4,7 +4,7 @@ body {
 
 .h1-text {
     font-size: 70px;
-    color: azure;
+    color: rgb(247, 243, 247);
     text-align: center;
     text-align-last: right;
 
@@ -13,7 +13,10 @@ body {
 .container {
     position: relative;
     text-align: center;
-    color: antiquewhite;
+    color: rgb(250, 248, 248);
+    font-size: medium;
+    font-weight: 700;
+
 
 }
 
@@ -25,11 +28,17 @@ body {
 
 }
 
-.button {
+#button {
     background-image: linear-gradient(orange, tomato);
     padding: 16px 20px;
-    border-radius: 15px;
+    border-radius: 25px;
     font-weight: 900;
     text-decoration: none;
-    color: aliceblue;
+    color: rgb(252, 253, 253);
+    font-size: 20px;
+}
+
+.part-two {
+    text-align: center;
+    font-size: 70px;
 }
